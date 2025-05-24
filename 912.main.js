@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkodin_todo_list=self.webpackChunkodin_todo_list||[]).push([[912],{912:(s,e,o)=>{s.exports=o.p+"1b7e30503cbfe9b1328f.svg"}}]);
