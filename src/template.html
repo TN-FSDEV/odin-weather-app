@@ -5,5 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Odin Weather App</title>
   </head>
-  <body></body>
+  <body>
+    <header id="form-container">
+      <form id="search-form" role="search">
+        <input
+          type="search"
+          id="search-box"
+          placeholder="Type to search..."
+          aria-label="Search for location"
+        />
+        <button id="search-button" type="submit">Add</button>
+      </form>
+      <div id="notification-panel" role="status" aria-live="polite"></div>
+    </header>
+
+    <main id="weather-panel"></main>
+  </body>
 </html>
